@@ -5354,6 +5354,22 @@
     </tr>
     <tr>
       <td>
+        <a id="ERR_NGROK_2259" href="/docs/errors/err_ngrok_2259">ERR_NGROK_2259</a>
+      </td>
+      <td class="pre-wrapped">
+        No tunnels exist in this account
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a id="ERR_NGROK_2260" href="/docs/errors/err_ngrok_2260">ERR_NGROK_2260</a>
+      </td>
+      <td class="pre-wrapped">
+        No tunnels could be found matching the supplied combination of labels
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a id="ERR_NGROK_3002" href="/docs/errors/err_ngrok_3002">ERR_NGROK_3002</a>
       </td>
       <td class="pre-wrapped">
@@ -11174,6 +11190,14 @@
       </td>
       <td class="pre-wrapped">
         The maximum number of endpoints allowed in this pool has been exceeded. Your account is limited to <code>&lt;LIMIT&gt;</code> endpoints per pool.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a id="ERR_NGROK_18021" href="/docs/errors/err_ngrok_18021">ERR_NGROK_18021</a>
+      </td>
+      <td class="pre-wrapped">
+        You have exceeded the maximum number of concurrent endpoints allowed for this account. Please log into <a href="https://dashboard.ngrok.com/usage">https://dashboard.ngrok.com/usage</a> to review your historic usage and <a href="https://dashboard.ngrok.com/billing/subscription/select">https://dashboard.ngrok.com/billing/subscription/select</a> to view your subscription options.
       </td>
     </tr>
     <tr>
